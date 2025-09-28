@@ -58,7 +58,7 @@ Before getting started, ensure you have the following prerequisites:
   - Computer (Windows 7, Windows 10, or Windows 11)
   - MPU6500 sensor
 - Software:
-  - Debugging tool [QPYcom](https://images.quectel.com/python/2022/12/QPYcom_V3.6.0.zip)
+  - Debugging tool [QPYcom](https://developer.quectel.com/wp-content/uploads/2024/09/QPYcom_V3.9.0.zip)
   - QuecPython firmware (beta firmware is available in the `fw` directory of the repository)
   - Python text editor (e.g., [VSCode](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/download/))
 

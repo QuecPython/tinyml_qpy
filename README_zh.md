@@ -80,10 +80,10 @@ tinyml_qpy/
 
 * **软件**：
 
-  *   调试工具 [QPYcom](https://images.quectel.com/python/2022/12/QPYcom_V3.6.0.zip)
+  *   调试工具 [QPYcom](https://developer.quectel.com/wp-content/uploads/2024/09/QPYcom_V3.9.0.zip)
   
   
-    *   QuecPython 固件（测试版固件可在仓库的`fw`目录中找到）
+    *   QuecPython 固件（EG912U固件可在仓库的`fw`目录中找到）
   
   
     *   Python 文本编辑器（例如 [VSCode](https://code.visualstudio.com/)、[PyCharm](https://www.jetbrains.com/pycharm/download/)）
